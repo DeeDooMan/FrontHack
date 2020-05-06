@@ -20,3 +20,17 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+
+.que{
+    position: center;
+    min-height: 12px;
+    padding: 30px 50px 30px 60px;
+    color: #F7F7F7;
+    font-size: 20px;
+    font-weight: bold;
+    background: #028DC8;
+    width: auto;
+    margin: center ;
+    }
+
